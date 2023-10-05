@@ -6,7 +6,7 @@
 
 * [Advanced Python](https://intranet.alxswe.com/concepts/554)
 
-! [image](https://i.redd.it/y9y25tefi5401.png)
+![image](https://i.redd.it/y9y25tefi5401.png)
 
 # Resources
 
