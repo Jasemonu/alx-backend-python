@@ -5,3 +5,13 @@
 *For this project, we expect you to look at this concept:*
 
 * [Advanced Python](https://intranet.alxswe.com/concepts/554)
+
+! [image](https://i.redd.it/y9y25tefi5401.png)
+
+# Resources
+
+## Read or watch:
+
+* [python 3 typing documentation](https://docs.python.org/3/library/typing.html)
+
+* [MyPy cheat sheet](https://mypy.readthedocs.io/en/latest/cheat_sheet_py3.html)
