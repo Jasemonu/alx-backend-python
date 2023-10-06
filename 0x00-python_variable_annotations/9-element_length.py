@@ -4,20 +4,10 @@ Annotate the below function’s parameters and
 return values with the appropriate types
 """
 
-from typing import List, Tuple
+import typing
 
 
-def element_length(lst: List[str]) -> List[Tuple[str, int]]:
-    """
-    Calculate the length of each element in a list of strings and
-    return a list of tuples.
-
-    Args:
-        lst (List[str]): A list of strings.
-
-    Returns:
-        List[Tuple[str, int]]: A list of tuples, where each tuple
-        contains a string from the input list
-        and its corresponding length as an integer.
-    """
+def element_length(lst: typing.Iterable[typing.Sequence]) -> \
+        typing.List[typing.Tuple[typing.Sequence, int]]:
+    """Returns a list of tuples"""
     return [(i, len(i)) for i in lst]
